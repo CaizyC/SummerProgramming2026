@@ -1,0 +1,35 @@
+
+body{
+    background-color: #529951;
+    color: #ca345a;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+selector{
+    property: value;
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    line-height: 30px;
+    background-color: #ca345a;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: #ca345a;
+    color: rgb(226, 239, 103);
+    text-align: center;
+    padding: 10px;
+    margin-right: 20px;
+}
+header{
+    text-align: center;
+}
+ link rel="stylesheet" type="text/css" href="styles.css">
+<img id="funny-food-memes-4-5bc74b39edfef__700" src="https://i.pinimg.com/originals/4b/c7/4b/4bc74b39edfefc8e5a9c1f0d2e7a3c.jpg" alt="Image result for funny food memes" style="margin-right: 200px;">
